@@ -1,0 +1,70 @@
+body {
+	margin: 0;
+	background-image: url("writing and lamps.jpeg");
+	background-size: cover;
+}
+
+h3 a {
+	text-decoration: none;
+	margin-left: 35px;
+	margin-bottom: 35px;
+	line-height: 3;
+	color: cadetblue;
+	font-family: "monotype corsiva";
+	transition: all 0.3s linear;
+}
+
+h3 a:hover {
+	font-size: 1.2em;
+	color: aliceblue;
+}
+
+.container{
+	position: relative;
+	width: 100%;
+	margin-top: 25px;
+	margin-bottom: -15px;
+}
+
+div {
+	display: block;
+	text-align: center;
+	height: 96.6vh;
+
+}
+
+form {
+	border: 2px solid #b4d7f7;
+	display: inline-block;
+	/*margin-left: auto;
+	margin-right: auto;*/
+	font-style: italic;
+	text-align: center;
+	padding: 100px;
+	width: 317px;
+	height: 159px;
+	background-color: #2b2424;
+	
+}
+
+
+.button {
+	background-color: #645c5c;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-radius: 8px;
+	font-weight: bold;
+	line-height: 1.5;
+	color: #84bf84;;
+
+}
+
+footer {
+	background-color: #151515;
+	opacity: 90%;
+	color: #363939;
+	text-align: center;
+	padding-top: 5px;
+}

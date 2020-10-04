@@ -1,0 +1,62 @@
+body {
+	margin: 0;
+	background-image: url("genre image.jpg");
+	background-size: cover;
+
+}
+
+h3 a {
+	text-decoration: none;
+	margin-left: 35px;
+	margin-bottom: 35px;
+	line-height: 3;
+	color: cadetblue;
+	font-family: "monotype corsiva";
+	transition: all 0.3s linear;
+}
+
+h3 a:hover {
+	font-size: 1.2em;
+	color: aliceblue;
+}
+
+div {
+	display: block;
+	text-align: left;
+	height: 96.6vh;
+
+}
+
+li {
+	list-style: inside;
+	padding: 18px;
+	padding-left: 20px;
+}
+
+li a {
+	
+	text-decoration: none;
+	text-align: left;
+	font-family: "lucida handwriting";
+	font-size: 2.5rem;
+	font-weight: bolder;
+	font-style: italic;
+	letter-spacing: 5px;
+	line-height: 90px;
+	color: #757266;
+	transition: all 0.5s linear;
+
+}
+
+li a:hover {
+	font-size: 2.95rem;
+	color: #666562;
+}
+
+footer {
+	background-color: #151515;
+	opacity: 90%;
+	color: #363939;
+	text-align: center;
+	padding-top: 5px;
+}
